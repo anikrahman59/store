@@ -1,1 +1,3 @@
 lorem epsam
+
+error: failed to push some refs to SOLVED
